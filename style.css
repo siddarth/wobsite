@@ -1,0 +1,52 @@
+#wrapper {
+    padding-left:20px;
+    padding-top:20px;
+    width:840px;
+}
+
+#wrapper a {
+    color:black;
+    font-weight:500;
+    font-family: 'PT Serif';
+}
+
+#dispic {
+    padding-bottom:10px;
+}
+#banner {
+    font-size:36px;
+    padding-left:20px;
+    padding-top:20px;
+    font-family: 'Oswald';
+    padding-bottom:20px;
+}
+
+#content-left {
+    width:500px;
+    float:left;
+    padding-right:40px;
+    text-align:justify;
+}
+
+#navigation {
+    padding-top:20px;
+    padding-bottom:5px;
+}
+
+#footer {
+    font-size:10px;
+}
+
+#navigation li
+{
+    display: inline;
+    list-style-type: none;
+}
+
+#content-right {
+    font-family: 'PT Serif';
+    word-wrap: break-word;
+    float:right;
+    width:300px;
+    font-size:12px;
+}
