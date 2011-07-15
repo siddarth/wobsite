@@ -7,7 +7,7 @@
 #wrapper a {
     color:black;
     font-weight:500;
-    font-family: 'PT Serif';
+    font-family:'PT Serif';
 }
 
 #dispic {
@@ -17,7 +17,7 @@
     font-size:36px;
     padding-left:20px;
     padding-top:20px;
-    font-family: 'Oswald';
+    font-family:'Oswald';
     padding-bottom:20px;
 }
 
