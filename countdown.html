@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+        <style type="text/css">
+            @import "css/jquery.countdown.css";
+
+            #countdown { width: 450px; height: 150px; font-size:40px; }
+        </style>
+        <script type="text/javascript" src="js/jquery.countdown.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                var graduation = new Date(2012, 5, 24);
+                $('#countdown').countdown({until: graduation});
+            });
+        </script>
+    </head>
+    <body>
+        <center><div id="countdown"></div></center>
+    </body>
+</html>
+
